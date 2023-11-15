@@ -1,0 +1,14 @@
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\bin\Debug\net6.0\PromedioEjercicio.exe
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\bin\Debug\net6.0\PromedioEjercicio.deps.json
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\bin\Debug\net6.0\PromedioEjercicio.runtimeconfig.json
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\bin\Debug\net6.0\PromedioEjercicio.dll
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\bin\Debug\net6.0\PromedioEjercicio.pdb
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\obj\Debug\net6.0\PromedioEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\obj\Debug\net6.0\PromedioEjercicio.AssemblyInfoInputs.cache
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\obj\Debug\net6.0\PromedioEjercicio.AssemblyInfo.cs
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\obj\Debug\net6.0\PromedioEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\obj\Debug\net6.0\PromedioEjercicio.dll
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\obj\Debug\net6.0\refint\PromedioEjercicio.dll
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\obj\Debug\net6.0\PromedioEjercicio.pdb
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\obj\Debug\net6.0\PromedioEjercicio.genruntimeconfig.cache
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\PromedioEjercicio\PromedioEjercicio\obj\Debug\net6.0\ref\PromedioEjercicio.dll
